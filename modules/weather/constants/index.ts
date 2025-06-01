@@ -1,0 +1,4 @@
+export const MAX_CITIES = 3;
+export const CITIES_STORAGE_KEY = 'WEATHER_CITIES_LIST';
+export const WEATHER_CACHE_KEY = 'WEATHER_CACHE';
+export const CACHE_EXPIRY_TIME = 10 * 60 * 1000;
